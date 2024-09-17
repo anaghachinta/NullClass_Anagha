@@ -45,17 +45,17 @@ This ensures that the insights are only available within the specified time wind
 
 ## Files
 
-1. **twitter_dashboard-1.pbix**: The Power BI file containing all the visualizations and tasks completed as part of this internship.
+1. **Twitter Dashboard-1.pbix**: The Power BI file containing all the visualizations and tasks completed as part of this internship.
 2. **Internship Reports**: Detailed documentation of each task, including the learning objectives, challenges, and outcomes.
 
 ## Instructions
 
 To view the dashboard and reports:
 1. Clone or download the repository.
-2. Open the **twitter_dashboard-1.pbix** file in Power BI Desktop.
+2. Open the **Twitter Dashboard-1.pbix** file in Power BI Desktop.
 3. Use the filters and interact with the visualizations to explore the data and insights.
 4. Refer to the internship reports for detailed explanations of the tasks and methodologies used.
 
 ## Acknowledgments
 
-This project was completed as part of the internship at Nullclass EdTech. The experience has greatly enhanced my skills in Power BI, data analytics, and dashboard creation, providing practical, hands-on knowledge in real-world data scenarios.
+This project was completed as part of the internship at Nullclass Edtech Private Limited. The experience has greatly enhanced my skills in Power BI, data analytics, and dashboard creation, providing practical, hands-on knowledge in real-world data scenarios.
