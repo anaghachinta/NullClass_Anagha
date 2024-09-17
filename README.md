@@ -7,7 +7,7 @@ This repository contains the completed internship tasks and training projects un
 As part of this internship, I was tasked with developing dynamic and interactive dashboards using Power BI. These dashboards provide insights into tweet performance based on various engagement metrics. The key components of the project include:
 
 - **Calculating engagement rates**
-- **Filtering tweets** based on specific criteria (likes, word count, and time of posting)
+- **Filtering tweets** based on specific criteria (likes, word count, and number of likes)
 - **Displaying insights** through visualizations, including bar charts, pie charts, and KPI visuals.
 
 ## Key Deliverables
@@ -27,7 +27,6 @@ As part of this internship, I was tasked with developing dynamic and interactive
 - **Time-Based Filter**: This chart works only between **3 PM and 6 PM**.
 - **Visualizations**:
   - **Clustered Column Chart**: Shows the combined sum of retweets and likes for the top 10 tweets.
-  - **User Profile Display**: Includes information on the user profile that posted each tweet, providing valuable insights into the top performers.
 
 ### 3. **Task 3: Media Views and Engagements by Day of the Week**
 - **Objective**: Create a dual-axis chart that visualizes the number of media views and media engagements by the day of the week for the last quarter.
@@ -35,8 +34,7 @@ As part of this internship, I was tasked with developing dynamic and interactive
 - **Time-Based Filter**: The chart dynamically updates only between **3 PM and 6 PM**.
 - **Visualizations**:
   - **Dual-Axis Chart**: One axis shows media views, and the other shows media engagements. It highlights days with significant spikes in interactions.
-  - **Color Coding for Spikes**: Days with high levels of media engagement and media views are color-coded to easily identify spikes and trends.
-
+  
 ### 4. **Time-Based Functionality Across All Tasks**
 Each dashboard includes time-based functionality that dynamically updates the visualizations based on the system's local time. Depending on the task, the dashboards will either be **"Active"** or **"Inactive"** within the designated timeframes:
 - **Task 1**: Active between **1 PM and 4 PM**.
@@ -45,14 +43,14 @@ This ensures that the insights are only available within the specified time wind
 
 ## Files
 
-1. **Twitter Dashboard-1.pbix**: The Power BI file containing all the visualizations and tasks completed as part of this internship.
+1. **Twitter dashboard-1.pbix**: The Power BI file containing all the visualizations and tasks completed as part of this internship.
 2. **Internship Reports**: Detailed documentation of each task, including the learning objectives, challenges, and outcomes.
 
 ## Instructions
 
 To view the dashboard and reports:
 1. Clone or download the repository.
-2. Open the **Twitter Dashboard-1.pbix** file in Power BI Desktop.
+2. Open the **Twitter dashboard-1.pbix** file in Power BI Desktop.
 3. Use the filters and interact with the visualizations to explore the data and insights.
 4. Refer to the internship reports for detailed explanations of the tasks and methodologies used.
 
